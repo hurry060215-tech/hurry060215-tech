@@ -51,7 +51,7 @@ My current interests include single-cell omics, multi-omics integration, neuroim
 
 | Project | Role | Focus |
 | --- | --- | --- |
-| [scop](https://github.com/hurry060215-tech/scop) | Author / Maintainer | An end-to-end single-cell omics analysis pipeline for comprehensive exploration of single-cell data. |
+| [scop](https://github.com/mengxu98/scop) | Author / Maintainer | An end-to-end single-cell omics analysis pipeline for comprehensive exploration of single-cell data. |
 | [thisplot](https://github.com/hurry060215-tech/thisplot) | Contributor | R plotting utilities designed to make scientific visualization more efficient and reusable. |
 | [MMV](https://github.com/hurry060215-tech/MMV) | Creator | R toolkit for water maze and minefield trajectory visualization, including CSV conversion and plotting workflows. |
 | [omicverse](https://github.com/hurry060215-tech/omicverse) | Member / Contributor | A Python ecosystem for bulk, single-cell, and spatial multi-omics analysis. |
