@@ -18,11 +18,9 @@
 </p>
 
 ## About Me
-
 I work at the intersection of biomedical research and software engineering, with a focus on building practical tools for neuroscience, bioinformatics, imaging analysis, and AI-assisted scientific discovery.
-
+  
 My current interests include single-cell omics, multi-omics integration, neuroimaging, biomedical data visualization, reproducible analysis pipelines, and research software that helps turn complex datasets into clear biological insight.
-
 ## Research & Engineering Interests
 
 - Neuroscience and biomedical imaging analysis
